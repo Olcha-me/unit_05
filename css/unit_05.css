@@ -174,12 +174,18 @@ p {
 }
 
 .out-3 .t-1 {
+    left: 50px;
+    top: 50px;
 }
 
 .out-3 .t-2 {
+    left: 100px;
+    top: 100px;
 }
 
 .out-3 .t-3 {
+    bottom: -50px;
+    right: 50px;
 }
 
 /* Task 3 END -------------------------------------- */
