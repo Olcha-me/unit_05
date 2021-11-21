@@ -341,13 +341,16 @@ p {
     height: 90px;
     position: relative;
     /* потом свойство background удалите */
-    background: orange;
+    
 }
 .block-1 {
     width: 300px;
     height: 30px;
     text-align: center; 
     line-height: 30px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 .block-2 {
     width: 300px;
@@ -357,12 +360,17 @@ p {
     position: relative;
     left: 150px;
     right: 50px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 .block-3 {
     width: 300px;
     height: 30px;
     text-align: center; 
     line-height: 30px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 
